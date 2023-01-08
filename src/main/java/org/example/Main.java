@@ -16,6 +16,7 @@ public class Main extends Newclass {
         Main obj = new Main();
        // int s = sum(10);
         System.out.println("enter input");
+        System.out.println("hELLO");
         int s = sc.nextInt();
         System.out.println(obj.sum(s));
         Main m= new Main();
