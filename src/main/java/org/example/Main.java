@@ -1,8 +1,11 @@
 package org.example;
 
+import lombok.Data;
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
+@Data
 public class Main extends Newclass {
 
        public int p = 6;
